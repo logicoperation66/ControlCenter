@@ -1,0 +1,5 @@
+1.
+    Create a script which check DB in specific intervals of time.
+Apply a loop which check for any database changes.
+If there is a new user with selected VPS it should take all needed data and put them to variable.
+
